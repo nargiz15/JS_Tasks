@@ -11,3 +11,6 @@ else if(soz === "admin"){
 else if(soz=== "guest"){
     alert("xos geldin qonaq")
 }
+else{
+    alert( "men sizi tanimiram")
+}

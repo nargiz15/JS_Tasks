@@ -5,5 +5,5 @@ if(value>9 && value<100){
     alert("eded iki reqemlidir")
 }
 else{
-    alert( "error")
+    alert( "eded tek reqemlidir")
 }

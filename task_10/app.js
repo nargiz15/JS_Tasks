@@ -6,14 +6,14 @@
 let eded = +prompt("eded daxil edin")
 
 if(eded===0){
-    console.log(eded, 'menfi');
+    console.log(eded, 'beraberdir');
 
 }
 
 else if(eded>0){
     console.log(eded, 'musbet');
 }
-else if(eded<0){
+else{
      console.log(eded, 'menfi');
 
 }

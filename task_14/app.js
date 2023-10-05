@@ -21,6 +21,10 @@ switch (direction){
     case ("left"):
         console.log("sola get");
         break
+
+        default:
+            console.log("error");
+            break
 }
 
 
